@@ -23,5 +23,6 @@
       "src": "/(.*)",
       "dest": "asgi.py"
     }
-  ]
+  ],
+  "buildCommand": "./build.sh"
 }
